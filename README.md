@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshdhiman090" alt="vanshdhiman090" /></a> </p>
 
-- 🔭 I’m currently working on **Churn rate**
+- 🔭 I’m currently working on **Oprations and Supply chain Domain**
 
-- 🌱 I’m currently learning **Scraping data from Web**
+- 🌱 I’m currently learning **Supply Chain Domain**
 
-- 🤝 I’m looking for help with **Data Learning with Ai**
+- 🤝 I’m looking for help with **Finance Domain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanshdhiman090?tab=repositories](https://github.com/vanshdhiman090?tab=repositories)
 
