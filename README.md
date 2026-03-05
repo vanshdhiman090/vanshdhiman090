@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshdhiman090" alt="vanshdhiman090" /></a> </p>
 
-- 🔭 I’m currently working on **Oprations and Supply chain Domain**
+- 🔭 I’m currently pursuing Course  **Google data analytics beginers **
 
-- 🌱 I’m currently learning **Supply Chain Domain**
+- 🌱 I’m currently working on **Making portfolio**
 
 - 🤝 I’m looking for help with **Finance Domain**
 
