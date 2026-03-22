@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshdhiman090" alt="vanshdhiman090" /></a> </p>
 
-- 🔭 I’m currently pursuing Course  **Google data analytics beginers **
+- 🔭 I’m currently working on the case study in order to gain real life experince.
 
 - 🌱 I’m currently working on **Making portfolio**
 
