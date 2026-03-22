@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on the case study in order to gain real life experince.
 
-- 🌱 I’m currently working on **Making portfolio**
+- 🌱 I’m currently working on **Case Studies or Projects**
 
 - 🤝 I’m looking for help with **Finance Domain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanshdhiman090?tab=repositories](https://github.com/vanshdhiman090?tab=repositories)
 
-- 💬 Ask me about **Data related**
+- 💬 Ask me about **To Grow Together**
 
 - 📫 How to reach me **vanshdhiman090@gmail.com**
 
