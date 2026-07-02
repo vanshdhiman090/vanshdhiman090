@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vansh </h1>
-<h3 align="center">A passionate Data Analysis from Hamburg(Germany)</h3>
+<h3 align="center">A Data Analytics from Hamburg(Germany)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshdhiman090&label=Profile%20views&color=0e75b6&style=flat" alt="vanshdhiman090" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshdhiman090" alt="vanshdhiman090" /></a> </p>
 
-- 🔭 I’m currently working on the case study in order to gain real life experince.
+- 🔭 I’m currently working on diffrent type of case studies in order to gain real life experince.
 
-- 🌱 I’m currently working on **Case Studies or Projects**
+- 🌱 I’m currently working on **Ai JOb Trend**
 
-- 🤝 I’m looking for help with **Finance Domain**
+- 🤝 I’m looking for help with **For Joining the Startups**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vanshdhiman090?tab=repositories](https://github.com/vanshdhiman090?tab=repositories)
 
