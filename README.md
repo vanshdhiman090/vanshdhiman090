@@ -1,29 +1,50 @@
-<h1 align="center">Hi 👋, I'm Vansh </h1>
-<h3 align="center">A Data Analytics from Hamburg(Germany)</h3>
+# Hi, I'm Vansh Dhiman
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshdhiman090&label=Profile%20views&color=0e75b6&style=flat" alt="vanshdhiman090" /> </p>
+**Digital Business & Data Science student in Hamburg** focused on **Data Analytics, Business Intelligence, AI-assisted analytics, and data products**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshdhiman090" alt="vanshdhiman090" /></a> </p>
+I build practical projects that connect business questions with data pipelines, analysis, dashboards, and governed AI workflows. I am currently targeting **Werkstudent and internship opportunities in Hamburg / Germany** across Data Analytics, BI, Business Analytics, Product Analytics, and AI/Data roles.
 
-- 🔭 I’m currently working on diffrent type of case studies in order to gain real life experince.
+## Core Skills
 
-- 🌱 I’m currently working on **Ai JOb Trend**
+**Analytics & BI:** SQL, Python, pandas, PostgreSQL, MySQL, Power BI, Excel, Statistics, Data Visualization, KPI Analysis, Forecasting  
+**AI & Engineering:** FastAPI, Generative AI / LLM workflows, AI agents, Git, GitHub  
+**Business:** Business Analysis, Operations Analytics, Data Quality, Root Cause Analysis
 
-- 🤝 I’m looking for help with **For Joining the Startups**
+## Featured Projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/vanshdhiman090?tab=repositories](https://github.com/vanshdhiman090?tab=repositories)
+### [AI Root Cause Investigation Agent](https://github.com/vanshdhiman090/AI-Root-Cause-Investigation-Agent)
+Evidence-governed analytics agent for investigating why a business KPI changed. It combines deterministic contribution analysis, bounded hypothesis testing, verification, explicit uncertainty, and a Next.js/FastAPI application layer.
 
-- 💬 Ask me about **To Grow Together**
+- **Stack:** Python, FastAPI, Next.js, PostgreSQL, Gemini API, pytest, Playwright
+- **Engineering proof:** 323 backend tests, 23 browser tests, controlled RCA benchmark, CI release gates
+- **Live app:** https://ai-root-cause-investigation-agent.vercel.app
 
-- 📫 How to reach me **vanshdhiman090@gmail.com**
+### [AI Workforce Intelligence Platform](https://github.com/vanshdhiman090/Ai-workforce-intelligence-platform-July2026)
+End-to-end workforce analytics platform that turns live German job-market data into skill-demand, company skill-gap, and workforce intelligence.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@vanshdhiman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vanshdhiman_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vansh dhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vansh dhiman" height="30" width="40" /></a>
-</p>
+- **Stack:** Python, SQL, PostgreSQL, pandas, Streamlit, Power BI, Gemini API
+- **Pipeline:** API ingestion → cleaning & validation → PostgreSQL → analytics → dashboard → AI executive insight
+- **Live app:** https://ai-workforce-intelligence-platform-july2026-kvvfa6vrauzrcnulce.streamlit.app/
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### [Store-Level Demand Forecasting](https://github.com/vanshdhiman090/demand_forcasting_supply_chain_domain)
+Compared multiple time-series forecasting approaches for weekly Walmart store sales using walk-forward validation. The documented Prophet model reduced MAPE by more than 27% versus the naive baseline.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanshdhiman090&show_icons=true&locale=en&layout=compact" alt="vanshdhiman090" /></p>
+### [Supplier Performance Dashboard](https://github.com/vanshdhiman090/Supplier_Performance_Dashboard)
+Power BI analysis of supplier reliability using lead time, late-delivery, order-volume, and supplier-performance KPIs.
+
+## What I'm Focused On
+
+- Building reliable analytics systems, not just notebooks
+- Turning business problems into measurable analytical workflows
+- Business Intelligence and decision-support products
+- AI systems where deterministic analysis remains separate from model-generated explanation
+- Improving German alongside my studies and professional work in Hamburg
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/vansh-dhiman-data
+- **GitHub:** https://github.com/vanshdhiman090
+
+---
+
+**Open to Werkstudent / internship opportunities in Data Analytics, Business Intelligence, Business Analytics, Product Analytics, and AI/Data roles.**
