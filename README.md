@@ -12,25 +12,31 @@ I build practical projects that connect business questions with data pipelines, 
 
 ## Featured Projects
 
+### [AI Workforce Intelligence Platform](https://github.com/vanshdhiman090/Ai-workforce-intelligence-platform-July2026)
+End-to-end workforce analytics platform that turns German job-market data into skill-demand, company skill-gap, and workforce intelligence.
+
+- **Stack:** Python, SQL, PostgreSQL, pandas, Streamlit, Power BI, Gemini API
+- **Pipeline:** API ingestion → cleaning and validation → PostgreSQL → analytics → dashboard → grounded AI insight
+- **Live app:** https://ai-workforce-intelligence-platform-july2026-kvvfa6vrauzrcnulce.streamlit.app/
+
 ### [AI Root Cause Investigation Agent](https://github.com/vanshdhiman090/AI-Root-Cause-Investigation-Agent)
-Evidence-governed analytics agent for investigating why a business KPI changed. It combines deterministic contribution analysis, bounded hypothesis testing, verification, explicit uncertainty, and a Next.js/FastAPI application layer.
+Active-development analytics product for investigating why a business KPI changed. Deterministic calculations own the numbers; bounded LLM workflows help prioritize investigation while verification controls what the system can claim.
 
 - **Stack:** Python, FastAPI, Next.js, PostgreSQL, Gemini API, pytest, Playwright
 - **Engineering proof:** 323 backend tests, 23 browser tests, controlled RCA benchmark, CI release gates
 - **Live app:** https://ai-root-cause-investigation-agent.vercel.app
 
-### [AI Workforce Intelligence Platform](https://github.com/vanshdhiman090/Ai-workforce-intelligence-platform-July2026)
-End-to-end workforce analytics platform that turns live German job-market data into skill-demand, company skill-gap, and workforce intelligence.
+### [Bank Campaign Intelligence Dashboard](https://github.com/vanshdhiman090/-Portuguese-bank-telemarketing-campaign-)
+Python and Power BI analysis of 41,176 campaign records, connecting customer segmentation, contact strategy, and conversion performance.
 
-- **Stack:** Python, SQL, PostgreSQL, pandas, Streamlit, Power BI, Gemini API
-- **Pipeline:** API ingestion → cleaning & validation → PostgreSQL → analytics → dashboard → AI executive insight
-- **Live app:** https://ai-workforce-intelligence-platform-july2026-kvvfa6vrauzrcnulce.streamlit.app/
+- **Verified result:** 11.27% overall conversion; student and retired segments converted at more than twice the average
+- **Campaign pattern:** observed conversion declined from 13.04% on the first attempt to 7.50% on the fifth and 4.25% on the eighth
+- **Deliverable:** four-page Power BI decision dashboard with documented data-quality and analytical limits
 
-### [Store-Level Demand Forecasting](https://github.com/vanshdhiman090/demand_forcasting_supply_chain_domain)
-Compared multiple time-series forecasting approaches for weekly Walmart store sales using walk-forward validation. The documented Prophet model reduced MAPE by more than 27% versus the naive baseline.
+### Additional analytics projects
 
-### [Supplier Performance Dashboard](https://github.com/vanshdhiman090/Supplier_Performance_Dashboard)
-Power BI analysis of supplier reliability using lead time, late-delivery, order-volume, and supplier-performance KPIs.
+- [Store-Level Demand Forecasting](https://github.com/vanshdhiman090/demand_forcasting_supply_chain_domain) — Prophet reduced MAPE by more than 27% versus the naive baseline using walk-forward validation.
+- [Supplier Performance Dashboard](https://github.com/vanshdhiman090/Supplier_Performance_Dashboard) — Power BI analysis of supplier reliability, lead time, late deliveries, and order-volume KPIs.
 
 ## What I'm Focused On
 
